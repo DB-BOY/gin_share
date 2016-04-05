@@ -1,21 +1,31 @@
 # gin_share
 好的资源，备份，以供分享
 
-大集合
+###大集合
+>针对开发者的20款移动开发框架
+
 https://github.com/tienfeek/android-open-project
-针对开发者的20款移动开发框架
-webApp、html5
+
+----
+###webApp、html5
 http://www.csdn.net/article/2013-07-09/2816161
-Android UI 组件 - 开源软件库 - 开源中国社区
+
+----
+###Android UI 组件 - 开源软件库 - 开源中国社区
 http://www.oschina.net/project/tag/342/android-ui
-直接拿来用！最火的Android开源项目（一）
+
+----
+###直接拿来用！最火的Android开源项目（一）
 http://www.csdn.net/article/2013-05-03/2815127-Android-open-source-projects
-直接拿来用！最火的Android开源项目（二）
+###直接拿来用！最火的Android开源项目（二）
 http://www.csdn.net/article/2013-05-08/2815145-Android-open-source-projects-two
-直接拿来用！最火的Android开源项目（完结篇）
+###直接拿来用！最火的Android开源项目（完结篇）
 http://www.csdn.net/article/2013-05-21/2815370-Android-open-source-projects-finale/3
+
+----
 android开源项目和框架
 http://blog.csdn.net/stephen255/article/details/9121583
+----
 数据
 gson
  
@@ -28,10 +38,13 @@ LruCache
  
 Afinal 0.5 发布，Android快速开发框架
 http://www.oschina.net/news/42469/afinal-0-5-released
+
+----
 Android项目快速开发框架探索（Mysql + OrmLite + Hessian + Sqlite）
 服务端客户端一体化
 http://www.iteye.com/topic/1129263
- 
+
+----
  
 ThinkAndroid
 http://www.open-open.com/lib/view/open1367801868918.html
@@ -117,4 +130,5 @@ https://github.com/roboguice/roboguice/wiki
  
 ###夜间模式
 https://github.com/brokge/NightModel
+
 ----
