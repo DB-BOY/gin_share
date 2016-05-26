@@ -99,49 +99,50 @@ http://www.cnblogs.com/lee0oo0/archive/2012/10/25/2738299.html
 1. Otto —— 一种Android EventBus 类库
  
 http://www.mythroad.net/?p=4151
+
 2. android开源项目之OTTO事件总线（二）官方demo解说
 
-http://www.2cto.com/kf/201405/300585.html
+    http://www.2cto.com/kf/201405/300585.html
 
 3. Otto介绍 - 云在千峰
 
-http://blog.chengyunfeng.com/?p=450#ixzz2mbSOkNrD
+    http://blog.chengyunfeng.com/?p=450#ixzz2mbSOkNrD
 
 4. 事件总线框架---Otto - JackCho - 推酷
 
-http://www.tuicool.com/articles/VbQZbu
+    http://www.tuicool.com/articles/VbQZbu
 
 5. Scoped event bus which automatically registers and unregisters with the lifecycle.
 
-https://gist.github.com/JakeWharton/3057437
+    https://gist.github.com/JakeWharton/3057437
 
 6. Android开发 事件总线框架otto
 
-http://www.pocketdigi.com/20131228/1236.html
+    http://www.pocketdigi.com/20131228/1236.html
  
 7. Android开发 使用EventBus管理事件传递消息
 
-http://www.pocketdigi.com/20131227/1235.html
+    http://www.pocketdigi.com/20131227/1235.html
 
 8. greenrobot/EventBus · GitHub
 
-https://github.com/greenrobot/EventBus
+    https://github.com/greenrobot/EventBus
 
 9. 使用Event Bus模式解耦Android App组件间通信
 
-http://www.xuebuyuan.com/1596403.html
+    http://www.xuebuyuan.com/1596403.html
 
 10. Event Bus —— Android开发模块间通信解耦 « 魔豆之路
 
-http://www.mythroad.net/2013/07/16/event-bus-android%E5%BC%80%E5%8F%91%E6%A8%A1%E5%9D%97%E9%97%B4%E9%80%9A%E4%BF%A1%E8%A7%A3%E8%80%A6/
+    http://www.mythroad.net/2013/07/16/event-bus-android%E5%BC%80%E5%8F%91%E6%A8%A1%E5%9D%97%E9%97%B4%E9%80%9A%E4%BF%A1%E8%A7%A3%E8%80%A6/
 
 11. EventBus 类库介绍 « 魔豆之路
 
-http://www.mythroad.net/2013/07/16/eventbus-%E7%B1%BB%E5%BA%93%E4%BB%8B%E7%BB%8D/
+    http://www.mythroad.net/2013/07/16/eventbus-%E7%B1%BB%E5%BA%93%E4%BB%8B%E7%BB%8D/
 
 12. Android开发 使用EventBus管理事件传递消息 | 应用开发笔记
 
-http://www.pocketdigi.com/20131227/1235.html
+    http://www.pocketdigi.com/20131227/1235.html
  
 ------
 
