@@ -7,6 +7,42 @@
 https://github.com/tienfeek/android-open-project
 
 ----
+
+- CSDN
+    - 鸿洋：http://blog.csdn.net/lmj623565791 
+    - 爱哥：http://blog.csdn.net/aigestudio 
+    - 老罗：http://blog.csdn.net/luoshengyang 
+    - 小巫：http://blog.csdn.net/wwj_748 
+    - Mr.Simple：http://blog.csdn.net/bboyfeiyu 
+    - 任玉刚：http://blog.csdn.net/singwhatiwanna 
+    - 夏安明：http://blog.csdn.net/xiaanming 
+    - 徐医生：http://blog.csdn.net/eclipsexys 
+    - 郭神：http://blog.csdn.net/sinyu890807/ 
+    - 张兴业：http://blog.csdn.net/xyz_lmn/ 
+    - 咪当系欧巴(非常有天赋的Coder)：http://blog.csdn.net/hellogv
+
+
+- 个人Blog
+    - 胡凯(android官方开发教程中文译文项目发起者)：http://hukai.me/blog/archives/ 
+    - 码农明明桑（有审美细胞的开发者）：http://blog.isming.me/
+    - stormzhang：http://stormzhang.com/posts.html 
+    - Coder Robin：http://coderrobin.com/ 
+    - 郝锡强：http://www.haoxiqiang.info/static/timing.html 
+    - Trinea：http://www.trinea.cn/ 
+    - 农民伯伯：http://www.cnblogs.com/over140/ 
+    - daimajia：http://blog.daimajia.com/ 
+    - stay4it：http://www.cnblogs.com/stay/
+    - 技术小黑屋(段建华) ： http://droidyue.com/
+    - 开发技术前线(simple等人建的聚合网站) http://www.devtf.cn/
+    
+
+- 你要时常去看的网站
+    - Android开发者官网(你必须熟练使用翻墙)：http://developer.android.com/index.html 
+    - GitHub(开源项目就在这里找)：https://github.com/ 
+    - 开源项目解析：http://www.codekk.com/open-source-project-analysis 
+    - Android代码查找：https://www.codota.com/ 
+    - 
+----
 ###webApp、html5
 http://www.csdn.net/article/2013-07-09/2816161
 
@@ -48,42 +84,67 @@ http://www.iteye.com/topic/1129263
  
 ThinkAndroid
 http://www.open-open.com/lib/view/open1367801868918.html
- 
- 
+
+-----
+###KJFrameForAndroid
+
 KJFrameForAndroid 又叫KJLibrary，
 http://www.oschina.net/p/kjframeforandroid
+------
 Android-query
 http://www.cnblogs.com/lee0oo0/archive/2012/10/25/2738299.html
  
+-----
+###otto
+1. Otto —— 一种Android EventBus 类库
  
-Otto —— 一种Android EventBus 类库
 http://www.mythroad.net/?p=4151
-android开源项目之OTTO事件总线（二）官方demo解说
+2. android开源项目之OTTO事件总线（二）官方demo解说
+
 http://www.2cto.com/kf/201405/300585.html
-Otto介绍 - 云在千峰
+
+3. Otto介绍 - 云在千峰
+
 http://blog.chengyunfeng.com/?p=450#ixzz2mbSOkNrD
-事件总线框架---Otto - JackCho - 推酷
+
+4. 事件总线框架---Otto - JackCho - 推酷
+
 http://www.tuicool.com/articles/VbQZbu
-Scoped event bus which automatically registers and unregisters with the lifecycle.
+
+5. Scoped event bus which automatically registers and unregisters with the lifecycle.
+
 https://gist.github.com/JakeWharton/3057437
-Android开发 事件总线框架otto
+
+6. Android开发 事件总线框架otto
+
 http://www.pocketdigi.com/20131228/1236.html
  
- 
-Android开发 使用EventBus管理事件传递消息
+7. Android开发 使用EventBus管理事件传递消息
+
 http://www.pocketdigi.com/20131227/1235.html
-greenrobot/EventBus · GitHub
+
+8. greenrobot/EventBus · GitHub
+
 https://github.com/greenrobot/EventBus
-使用Event Bus模式解耦Android App组件间通信
+
+9. 使用Event Bus模式解耦Android App组件间通信
+
 http://www.xuebuyuan.com/1596403.html
-Event Bus —— Android开发模块间通信解耦 « 魔豆之路
+
+10. Event Bus —— Android开发模块间通信解耦 « 魔豆之路
+
 http://www.mythroad.net/2013/07/16/event-bus-android%E5%BC%80%E5%8F%91%E6%A8%A1%E5%9D%97%E9%97%B4%E9%80%9A%E4%BF%A1%E8%A7%A3%E8%80%A6/
-EventBus 类库介绍 « 魔豆之路
+
+11. EventBus 类库介绍 « 魔豆之路
+
 http://www.mythroad.net/2013/07/16/eventbus-%E7%B1%BB%E5%BA%93%E4%BB%8B%E7%BB%8D/
-Android开发 使用EventBus管理事件传递消息 | 应用开发笔记
+
+12. Android开发 使用EventBus管理事件传递消息 | 应用开发笔记
+
 http://www.pocketdigi.com/20131227/1235.html
  
- 
+------
+
 使用框架编写Android程序
 AndroidAnnotations
 http://malong26.iteye.com/blog/1579294
@@ -131,38 +192,4 @@ https://github.com/roboguice/roboguice/wiki
 ###夜间模式
 https://github.com/brokge/NightModel
 
-----
 
-- CSDN
-    - 鸿洋：http://blog.csdn.net/lmj623565791 
-    - 爱哥：http://blog.csdn.net/aigestudio 
-    - 老罗：http://blog.csdn.net/luoshengyang 
-    - 小巫：http://blog.csdn.net/wwj_748 
-    - Mr.Simple：http://blog.csdn.net/bboyfeiyu 
-    - 任玉刚：http://blog.csdn.net/singwhatiwanna 
-    - 夏安明：http://blog.csdn.net/xiaanming 
-    - 徐医生：http://blog.csdn.net/eclipsexys 
-    - 郭神：http://blog.csdn.net/sinyu890807/ 
-    - 张兴业：http://blog.csdn.net/xyz_lmn/ 
-    - 咪当系欧巴(非常有天赋的Coder)：http://blog.csdn.net/hellogv
-
-
-- 个人Blog
-    - 胡凯(android官方开发教程中文译文项目发起者)：http://hukai.me/blog/archives/ 
-    - 码农明明桑（有审美细胞的开发者）：http://blog.isming.me/
-    - stormzhang：http://stormzhang.com/posts.html 
-    - Coder Robin：http://coderrobin.com/ 
-    - 郝锡强：http://www.haoxiqiang.info/static/timing.html 
-    - Trinea：http://www.trinea.cn/ 
-    - 农民伯伯：http://www.cnblogs.com/over140/ 
-    - daimajia：http://blog.daimajia.com/ 
-    - stay4it：http://www.cnblogs.com/stay/
-    - 技术小黑屋(段建华) ： http://droidyue.com/
-    - 开发技术前线(simple等人建的聚合网站) http://www.devtf.cn/
-    
-
-- 你要时常去看的网站
-    - Android开发者官网(你必须熟练使用翻墙)：http://developer.android.com/index.html 
-    - GitHub(开源项目就在这里找)：https://github.com/ 
-    - 开源项目解析：http://www.codekk.com/open-source-project-analysis 
-    - Android代码查找：https://www.codota.com/ 
